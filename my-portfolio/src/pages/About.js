@@ -1,31 +1,28 @@
-import React from 'react';
-import Header from '../components/Header';
-import HeroImage from '../assets/hero.jpg'
+import React from "react";
 
 const About = () => {
-  return <div name="home" className='h-screen w-full text-white'>
-            <div className='max-w-screen-lg mx-auto flex flex-col items center justify-center h-full px-4 md:flex-row mt-24'>
-                <div>
-                    <p className=' text-pink-500 text-6xl font-bold'>Hi im Whitney</p>
-                    <p className='text-3xl'>Im a front-end developer and Ui Designer</p>
-                    
-
-                    <div>
-                        <button className=' bg-lime-300 text-black px-6 py-3 my-8 mx-auto rounded-md hover:scale-110 duration-300'>Portfolio
-                        </button>
-                    </div>
-                </div>
-
-                <div>
-            <img 
-            src={HeroImage} 
-            alt='my profile' 
-            className="inline rounded-3xl mx-auto h-64"
-            /> 
-        </div>   
-            </div>
-          </div>;
-     
+  return (
+    <div
+      name="about"
+      className="w-full h-screen  text-white"
+    >
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+        <div className="pb-8">
+          <p className="text-4xl font-bold inline border-b-4 border-lime-300">
+            About
+          </p>
+        </div>
+        <p className="text-xl mt-7">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
+          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
+          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
+          perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
+          maiores. Voluptatum quisquam dignissimos tempore asperiores sit
+          ratione officiis officia alias vitae.
+        </p>
+      </div>
+    </div>
+  );
 };
 
 export default About;
