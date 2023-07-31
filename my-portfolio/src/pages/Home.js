@@ -3,8 +3,8 @@ import HeroImage from '../assets/hero.jpg'
 
 
 const Home = () => {
-  return <div name="home" className='h-screen w-full text-white'>
-            <div className='max-w-screen-lg mx-auto  flex-col  justify-center h-full px-12 md:flex-row '>
+  return <div name="home" className=' w-full text-white'>
+            <div className='max-w-screen-lg mx-auto flex flex-col  justify-center h-full px-12 md:flex-row mt-16 mb-64'>
                 <div>
                     <p className=' text-pink-500 text-6xl font-bold'>Hi im Whitney</p>
                     <p className='text-3xl'>Im a front-end developer and Ui Designer</p>
