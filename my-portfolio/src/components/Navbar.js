@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import Logo from '../assets/logo.png';
 import NavLinks from './NavLinks';
 
