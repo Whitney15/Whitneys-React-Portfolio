@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Whitneys-React-Portfolio/static/css/main.0fe634a3.css",
+    "main.js": "/Whitneys-React-Portfolio/static/js/main.e393e171.js",
+    "static/media/Yumbook.png": "/Whitneys-React-Portfolio/static/media/Yumbook.327546505450f9d0d63d.png",
+    "static/media/hero.jpg": "/Whitneys-React-Portfolio/static/media/hero.819e1e0be450e48fa5d0.jpg",
+    "static/media/BirdHouse.png": "/Whitneys-React-Portfolio/static/media/BirdHouse.75a2919bef6feccb2be3.png",
+    "static/media/CodeQuiz.png": "/Whitneys-React-Portfolio/static/media/CodeQuiz.03fbd660ee5de0a0c395.png",
+    "static/media/Cohort-Retort.png": "/Whitneys-React-Portfolio/static/media/Cohort-Retort.1588fa06b94fffd517e2.png",
+    "static/media/logo.png": "/Whitneys-React-Portfolio/static/media/logo.1d83c0d5cf3b23edbb02.png",
+    "index.html": "/Whitneys-React-Portfolio/index.html",
+    "main.0fe634a3.css.map": "/Whitneys-React-Portfolio/static/css/main.0fe634a3.css.map",
+    "main.e393e171.js.map": "/Whitneys-React-Portfolio/static/js/main.e393e171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe634a3.css",
+    "static/js/main.e393e171.js"
+  ]
+}
