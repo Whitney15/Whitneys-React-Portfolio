@@ -26,4 +26,4 @@ https://tailwindcss.com/docs/guides/create-react-app
 npm run start
 
 ## ScreenShot
-![Alt text](../my-portfolio/src/assets/screenshot.png?raw=true "Whitneys-React-Portfolio")
+![Alt text](../Whitneys-React-Portfolio/src/assets/screenshot.png?raw=true "Whitneys-React-Portfolio")
